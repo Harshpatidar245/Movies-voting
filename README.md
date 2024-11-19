@@ -5,7 +5,6 @@ HP Movies is a React-based movie application that allows users to browse and vie
 ## Features
 - Browse a list of movies displayed as cards.
 - View detailed movie information (e.g., plot, cast, release year, etc.) when clicking on a movie card.
-- Fetches movie data from the OMDB API dynamically.
 - Fully responsive design for an optimal experience on mobile and desktop.
 
 ## Live Demo
@@ -16,7 +15,6 @@ You can view the live project hosted on Netlify here: [HP Movies](https://hp-mov
 - **React.js**: For building the user interface.
 - **React Query**: To fetch and manage data from the OMDB API.
 - **Tailwind CSS**: For styling the application in a responsive manner.
-- **OMDB API**: To fetch movie data and show detailed information about the movies.
 
 ## Installation
 
